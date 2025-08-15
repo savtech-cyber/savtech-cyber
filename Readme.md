@@ -1,9 +1,13 @@
-# Hi there 👋, I'm Ethan Savado
+# Hi there , I'm Ethan Savado
 
 🎓 First-year Computer Science student 
+
 💻 Passionate about learning web development, databases, problem-solving, and software development
+
 🚀 Currently building small projects to sharpen my skills 
+
 💻 Possess intermediate skills in HTML and CSS, with ongoing growth
+
 💻 Currently developing my skills in Java, with a growing understanding of its core concepts. 
 
 ## 📂 My Projects
@@ -14,3 +18,4 @@
 ## 📫 How to reach me
 - Email: savadoethan17@gmail.com
 - LinkedIn: [Ethan Savado](www.linkedin.com/in/ethan-savado-2b127b25a)
+
