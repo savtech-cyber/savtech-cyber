@@ -13,11 +13,12 @@
 ## 📂 My Projects
 - [Project 1: Java Chat Application](https://github.com/savtech-cyber/JAVA-Chat-Application-Project.git)
 - [Project 2: COVID 19 Awareness Website](https://github.com/savtech-cyber/COVID-19-WEBSITE-HTML-CSS-.git)
-- [Project 3: Climate Change Awareness Website](https://github.com/username/weather-dashboard)
+- [Project 3: Climate Change Awareness Website](https://github.com/savtech-cyber/Climate-Change-Website.git)
 
 ## 📫 How to reach me
 - Email: savadoethan17@gmail.com
 - LinkedIn: [Ethan Savado](www.linkedin.com/in/ethan-savado-2b127b25a)
+
 
 
 
